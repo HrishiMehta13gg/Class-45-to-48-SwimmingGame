@@ -1,1 +1,2 @@
-# Class-45-to-48-SwimmingGame
+# p5.play-boilerplate
+Boiler plate for p5.play
